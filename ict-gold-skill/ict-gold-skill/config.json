@@ -1,0 +1,5 @@
+{
+  "symbol": "XAUUSD",
+  "trade_sessions": ["ASIA", "LNDN", "NYAM", "NYPM"],
+  "risk_pct": 1.0
+}
